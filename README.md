@@ -13,5 +13,5 @@
 - client-server
 - docker
 - jenkins
-- Nignx
+- Nginx
   
