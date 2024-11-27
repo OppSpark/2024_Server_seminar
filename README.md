@@ -9,8 +9,8 @@
 - 진행 방식 : 따라 해보기 식 진행 (ppt 제공)
 
 ## 서버 세미나 내용
-- AWS EC@
-- clint-server
+- AWS EC2
+- client-server
 - docker
 - jenkins
 - Nignx
